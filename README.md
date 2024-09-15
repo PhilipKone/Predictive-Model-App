@@ -1,5 +1,5 @@
 # Predictive-Model-App
-An interactive python App of the predictive model developed in the Predictive-Gait-Analysis repository
 
+An interactive Python app of the predictive model developed in the [Predictive-Gait-Analysis](https://fictional-space-succotash-qrqj4r4xj5qc456g-8501.app.github.dev/) repository.
 
-Link: https://fictional-space-succotash-qrqj4r4xj5qc456g-8501.app.github.dev/ 
+You can access the app [here](https://fictional-space-succotash-qrqj4r4xj5qc456g-8501.app.github.dev/).
